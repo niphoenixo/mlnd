@@ -12,6 +12,6 @@
 ### The Machine Learning Engineering Nanodegree is an online certification. It involves<br/><br/>
 
 ### 1. Courses in supervised learning, unsupervised learning, Reinforcement Learning, Deep Learning.<br/>
-### 2. 4 projects, e.g. segmenting customers based on spending on different types of products, Image Classification using Tensorflow<br/><br/>
+### 2. Four projects, e.g. segmenting customers based on spending on different types of products, Image Classification using Tensorflow etc<br/><br/>
 
 ### Courses include lecture videos, quizzes and programming problems. These courses were developed by Georgia Tech, Udacity, Google and Kaggle.
