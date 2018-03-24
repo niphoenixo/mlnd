@@ -1,7 +1,7 @@
 
 # Udacity<br/>
 
-## Degree Name Machine Learning Basics Nanodegree Graduate<br/>
+## Degree Name Machine Learning Engineering Nanodegree Graduate<br/>
 
 ## Field Of Study Machine Learning<br/>
 
